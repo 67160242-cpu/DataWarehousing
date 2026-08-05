@@ -1,0 +1,9 @@
+﻿Metric,Before Cleaning,After Cleaning,Data Quality Status
+Total Rows,630,612,Cleared (18 Dupes Removed)
+Missing Customer Email,50,0,100% Imputed with Flag
+Exact Duplicate Rows,18,0,100% Deduplicated
+Invalid Order Dates,0,0,100% Parsed / Fallback
+Mismatched Transaction Amounts,56,0,100% Recalculated
+Outliers Capped (Non-Promo),0,16,16 Outliers Capped
+Late Data Loads (>24h),24,74,74 Late Ingestions Tagged
+Invalid Order Statuses,181,0,100% Standardized
