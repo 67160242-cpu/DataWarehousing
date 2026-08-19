@@ -1,6 +1,3 @@
-& "C:\Users\iszau\AppData\Local\Programs\Python\Python312\python.exe" -c "
-content = '''# Retail Data Pipeline & Data Warehouse
-
 โครงการประมวลผลข้อมูลการขายด้วย ETL Data Pipeline แบบ Batch Processing นำเข้าข้อมูลจากไฟล์ Excel เข้าสู่ฐานข้อมูล Data Warehouse (SQLite) พร้อมระบบ Data Validation และ Quarantine Management
 
 ---
